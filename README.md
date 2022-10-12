@@ -19,4 +19,8 @@
 https://www.miricanvas.com/v/11gl7d1
 
 ### Training
-![스크린샷 2022-10-12 오후 2.40.11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d102e90d-b535-4a2b-8e92-8d446a30c26a/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-10-12_%EC%98%A4%ED%9B%84_2.40.11.png)
+<img width="1243" alt="training" src="https://user-images.githubusercontent.com/59727077/195264165-f387a71d-92ea-47e1-b381-ab4777e76271.png">
+  
+  
+### Model Evaluation
+<img width="925" alt="%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-10-12%20%EC%98%A4%ED%9B%84%202 48 54" src="https://user-images.githubusercontent.com/59727077/195264342-38fb67d6-2381-4259-932a-f9788bd83c82.png">
