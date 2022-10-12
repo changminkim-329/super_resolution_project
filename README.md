@@ -17,3 +17,6 @@
 
 ### PPT
 https://www.miricanvas.com/v/11gl7d1
+
+### Training
+![스크린샷 2022-10-12 오후 2.40.11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d102e90d-b535-4a2b-8e92-8d446a30c26a/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-10-12_%EC%98%A4%ED%9B%84_2.40.11.png)
