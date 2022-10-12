@@ -1,7 +1,6 @@
 # super_resolution_project
 저해상도 영상 이미지를 SRGAN를 이용해 고해상도 이미지로 변경해주는 프로젝트 
-
-<img width="1183" alt="gandan" src="https://user-images.githubusercontent.com/59727077/188301569-b1dedbe7-8db4-43fb-9851-81c494db6e6b.png">
+<img width="886" alt="%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-10-12%20%EC%98%A4%ED%9B%84%203 33 17" src="https://user-images.githubusercontent.com/59727077/195268662-11e59572-1b47-4420-aee1-3baeaadddb50.png">
 
 <Hr>
   
