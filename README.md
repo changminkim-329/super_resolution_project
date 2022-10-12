@@ -23,7 +23,7 @@
 <br>
   
 ### Model Evaluation
-<img width="925" alt="%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-10-12%20%EC%98%A4%ED%9B%84%202 48 54" src="https://user-images.githubusercontent.com/59727077/195264342-38fb67d6-2381-4259-932a-f9788bd83c82.png">
+<img width="100%" alt="%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-10-12%20%EC%98%A4%ED%9B%84%202 48 54" src="https://user-images.githubusercontent.com/59727077/195264342-38fb67d6-2381-4259-932a-f9788bd83c82.png">
 <br>
   
 ### PPT
